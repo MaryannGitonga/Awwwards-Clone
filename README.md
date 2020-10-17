@@ -1,4 +1,4 @@
-# Awwwards
+# Awwwards-Clone
 
 #### A application that allows a user to post a project to be reviewed and rated and also rate other projects.
 
