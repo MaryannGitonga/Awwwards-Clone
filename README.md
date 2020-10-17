@@ -1,6 +1,6 @@
 # Awwwards
 
-#### A application that allows a user to post a project he/she has created and get it reviewed by his/her peers.
+#### A application that allows a user to post a project to be reviewed and rated and also rate other projects.
 
 #### By **Maryann Gitonga**
 
